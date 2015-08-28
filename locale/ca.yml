@@ -1,0 +1,111 @@
+core:
+  account: Compte
+  activity: Activitat
+  administration: Administració
+  alert: Alerta
+  all_discussions: Totes les converses
+  before_log_in_link: Tens un compte?
+  before_sign_up_link: No tens un compte?
+  bio_placeholder: Explica alguna cosa sobre tu
+  cannot_reply: No pots respondre
+  cannot_reply_help: No tens permissos per respondre en aquesta conversa.
+  change_email: Modificar adreça de correu
+  change_password: Modificar contrasenya
+  change_password_help: "Prem el botó i accedeix a l'enllaç que t'arribarà al teu correu."
+  close: Tancar
+  confirm_delete_discussion: Estàs segur que vols esborrar aquesta conversa?
+  confirm_discard_discussion: No has publicat la conversa. Vols descartar-la?
+  confirm_discard_edit: No has guardat els teus canvis. Vols descartar-los?
+  confirm_discard_reply: No has publicat la teva resposta. Vols descartar-la?
+  confirmation_email_sent: "Hem enviat un correu de confirmació a {email}. Si no t'arriba, comprova el correu brossa."
+  controls: Controls
+  delete: Esborrar
+  delete_forever: Esborrar permanentment
+  deleted: "[esborrat]"
+  disclose_online: Permetre a tothom veure quan estic en línia
+  discussion_renamed_post: "{username} ha canviat el títol de {old} a {new}."
+  discussion_renamed_notification: "{username} ha canviat el títol"
+  discussion_replied: "Última resposta {ago} per {username}"
+  discussion_started: "Iniciada {ago} per {username}"
+  discussion_title: Títol de la conversa
+  discussions: Converses
+  dismiss: Descartar
+  edit: Editar
+  editing_post: "Missatge #{number} a {discussion}"
+  email: Correu electrònic
+  email_confirmation_required: "Has de confirmar la teva adreça de correu electrònic abans no puguis identificar-te. Hem enviat un correu de confirmació a {email}. Si no t'arriba, comprova el correu brossa."
+  exit_full_screen: Abandonar pantalla completa
+  forgot_password: Contrasenya perduda
+  forgot_password_help: "Indica el teu correu i t'enviarem un enllaç per restablir una nova contrasenya."
+  forgot_password_link: Has perdut la contrasenya?
+  full_screen: Pantalla completa
+  go_to: "Anar a {location}"
+  group_admin: Administrador
+  group_admins: Admintradors
+  group_guest: Convidat
+  group_guests: Convidats
+  group_member: Membre
+  group_members: Membres
+  group_mod: Moderador
+  group_mods: Moderadors
+  invalid_login: La identificació és incorrecta.
+  joined: "Inscrit {ago}"
+  joined_the_forum: Inscrit al fòrum
+  load_more: Carregar més
+  log_in: Identificació
+  log_in_to_reply: Identificar-se per respondre
+  log_out: Sortir
+  mark_all_as_read: Marcar-ho tot com llegit
+  mark_as_read: Marcar com llegit
+  minimize: Minimitzar
+  no_notifications: Sense notificacions
+  notifications: Notificacions
+  notify_discussion_renamed: Algú reanomena una conversa que he iniciat
+  now: Ara
+  online: En línia
+  original_post: Missatge original
+  password: Contrasenya
+  password_reset_email_sent: "T'hem enviat un correu amb un enllaç per restablir una nova contrasenya. Comprova el correu brossa si no t'arriba en uns minuts."
+  period_later: "{period} més tard"
+  post_discussion: Publicar una conversa
+  post_edited: "{username} ha editat {ago}"
+  post_number: "Missatge #{number}"
+  post_reply: Publicar una resposta
+  posted_a_reply: Ha publicat una resposta
+  posts: Missatges
+  powered_by_flarum: Funciona amb Flarum
+  privacy: Privacitat
+  profile: Perfil
+  prompt_rename_discussion: "Indica un nou títol per aquesta conversa:"
+  recover_password: Recuperar contrasenya
+  refresh: Refrescar
+  remove: Eliminar
+  rename: Reanomenar
+  reply: Respondre
+  reply_posted: La teva resposta ha estat publicada.
+  restore: Restaurar
+  save_changes: Guardar canvis
+  search_all_discussions: 'Cercar "{query}" a totes les converses'
+  search_forum: Cercar al fòrum
+  send_password_reset_email: Enviar correu de restabliment de contrasenya
+  settings: Preferències
+  sign_up: Inscripció
+  sort_latest: Recent
+  sort_newest: El més nou
+  sort_oldest: El més antic
+  sort_relevance: Rellevància
+  sort_top: Popularitat
+  start_a_discussion: Iniciar una conversa
+  started_a_discussion: Ha iniciat una conversa
+  unread_posts: "{count} sense llegir"
+  upload: Pujar
+  username: "Nom d'usuari"
+  username_or_email: "Nom d'usuari o correu electrònic"
+  users: Usaris
+  view: Veure
+  viewing_posts:
+    one: "{index} de {count} missatge"
+    other: "{index} de {count} missatges"
+  welcome_user: "Hola, {username}!"
+  write_a_post: Escriure un missatge...
+  write_a_reply: Escriure una resposta...
